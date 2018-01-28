@@ -4,15 +4,15 @@
     Arpit Roy - A1004916001<br>
     B.Sc. (IT) - 4A<br><br>
 
-    01. <a href="1_First.php"><button type="button" name="1" >My First PHP Program</button></a><br>
-    02. <a href="2_Ascending.php"><button type="button" name="2">Numbers in Ascending Order</button></a><br>
-    03. <a href="3_Descending.php"><button type="button" name="3">Numbers in Descending Order</button></a><br>
-    04. <a href="4_Even_odd.php"><button type="button" name="4">Even or Odd?</button></a><br>
-    05. <a href="5_Factorial.php"><button type="button" name="5">Factorial of a number</button></a><br>
-    06. <a href="6_Static.php"><button type="button" name="6">Usage of Static Variable</button></a><br>
-    07. <a href="7_Global.php"><button type="button" name="7">Usage of Global Variable</button></a><br>
-    08. <a href="8_Local.php"><button type="button" name="8">Usage of Local Variable</button></a><br>
-    09. <a href="9_Constant.php"><button type="button" name="9">Usage of Constant</button></a><br>
+    01. <a href="01_First.php"><button type="button" name="1" >My First PHP Program</button></a><br>
+    02. <a href="02_Ascending.php"><button type="button" name="2">Numbers in Ascending Order</button></a><br>
+    03. <a href="03_Descending.php"><button type="button" name="3">Numbers in Descending Order</button></a><br>
+    04. <a href="04_Even_odd.php"><button type="button" name="4">Even or Odd?</button></a><br>
+    05. <a href="05_Factorial.php"><button type="button" name="5">Factorial of a number</button></a><br>
+    06. <a href="06_Static.php"><button type="button" name="6">Usage of Static Variable</button></a><br>
+    07. <a href="07_Global.php"><button type="button" name="7">Usage of Global Variable</button></a><br>
+    08. <a href="08_Local.php"><button type="button" name="8">Usage of Local Variable</button></a><br>
+    09. <a href="09_Constant.php"><button type="button" name="9">Usage of Constant</button></a><br>
     10. <a href="10_Functional.php"><button type="button" name="10">Functional</button></a><br>
     11. <a href="11_Greatest2.php"><button type="button" name="11">Greatest among 2 numbers</button></a><br>
     12. <a href="12_Greatest3.php"><button type="button" name="12">Greatest among 3 numbers</button></a><br>
