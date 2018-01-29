@@ -2,7 +2,8 @@
     ------------------------------------- PHP Lab Programs ------------------------------------- <br>
     Created by:<br>
     Arpit Roy - A1004916001<br>
-    B.Sc. (IT) - 4A<br><br>
+    B.Sc. (IT) - 4A<br>
+    Amity University - Noida<br><br>
 
     01. <a href="01_First.php"><button type="button" name="1" >My First PHP Program</button></a><br>
     02. <a href="02_Ascending.php"><button type="button" name="2">Numbers in Ascending Order</button></a><br>
