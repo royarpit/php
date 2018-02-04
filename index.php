@@ -14,7 +14,7 @@
     07. <a href="07_Global.php"><button type="button" name="7">Usage of Global Variable</button></a><br>
     08. <a href="08_Local.php"><button type="button" name="8">Usage of Local Variable</button></a><br>
     09. <a href="09_Constant.php"><button type="button" name="9">Usage of Constant</button></a><br>
-    10. <a href="10_Functional.php"><button type="button" name="10">Functional</button></a><br>
+    10. <a href="10_Functional.php"><button type="button" name="10">Functional Parameter</button></a><br>
     11. <a href="11_Greatest2.php"><button type="button" name="11">Greatest among 2 numbers</button></a><br>
     12. <a href="12_Greatest3.php"><button type="button" name="12">Greatest among 3 numbers</button></a><br>
     13. <a href="13_FactorialUsingForm.php"><button type="button" name="13">Factorial of a number using Form</button></a><br>
