@@ -7,7 +7,7 @@ echo "<br><br>";
 ?>
 
 <form method="post" action="">
-    Select an option :-<br>
+    Select the sorting order :-<br>
     <input type="submit" name="ascending" value="Ascending Order">
     <input type="submit" name="descending" value="Descending Order"><br><br>
 </form> 
