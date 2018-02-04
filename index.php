@@ -23,6 +23,9 @@
     16. <a href="16_NumericArray.php"><button type="button" name="16">Usage of Numeric Array</button></a><br>
     17. <a href="17_AssociativeArray.php"><button type="button" name="17">Usage of Associative Array</button></a><br>
     18. <a href="18_MultiDimArray.php"><button type="button" name="18">Usage of Multi-Dimensional Array</button></a><br>
+    19. <a href="19_Sorting.php"><button type="button" name="19">Ascending or Descending Sort based on User Choice</button></a><br>
+    20. <a href="20_Explode.php"><button type="button" name="20">Usage of the Explode function</button></a><br>
+    21. <a href="21_Implode.php"><button type="button" name="21">Usage of the Implode function</button></a><br>
 
 </form>
 
