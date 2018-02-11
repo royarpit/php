@@ -14,7 +14,7 @@
     07. <a href="07_Global.php"><button type="button" name="7">Usage of Global Variable</button></a><br>
     08. <a href="08_Local.php"><button type="button" name="8">Usage of Local Variable</button></a><br>
     09. <a href="09_Constant.php"><button type="button" name="9">Usage of Constant</button></a><br>
-    10. <a href="10_Functional.php"><button type="button" name="10">Functional Parameter</button></a><br>
+    10. <a href="10_Functional.php"><button type="button" name="10">Usage of Functional Parameter</button></a><br>
     11. <a href="11_Greatest2.php"><button type="button" name="11">Greatest among 2 numbers</button></a><br>
     12. <a href="12_Greatest3.php"><button type="button" name="12">Greatest among 3 numbers</button></a><br>
     13. <a href="13_FactorialUsingForm.php"><button type="button" name="13">Factorial of a number using Form</button></a><br>
@@ -26,6 +26,9 @@
     19. <a href="19_Sorting.php"><button type="button" name="19">Ascending or Descending Sort based on User Choice</button></a><br>
     20. <a href="20_Explode.php"><button type="button" name="20">Usage of the Explode function</button></a><br>
     21. <a href="21_Implode.php"><button type="button" name="21">Usage of the Implode function</button></a><br>
-
+    22. <a href="22_CheckUpperLower.php"><button type="button" name="22">Check the Letter-Case of given string (Upper/Lower/Mixed)</button></a><br>
+    23. <a href="23_ReplaceWord.php"><button type="button" name="23">Replace a word in a given string</button></a><br>
+    24. <a href="24_PasswordAttributes.php"><button type="button" name="24">Display password attributes entered by user</button></a><br>
+    25. <a href="25_Palindrome.php"><button type="button" name="25">Check if a given string is Palindrome or not</button></a><br>
 </form>
 
