@@ -18,7 +18,7 @@ if(isset($_POST['txt']) AND isset($_POST['old_word']) AND isset($_POST['new_word
 		$str = $_POST['txt'];
 		$oldword = $_POST['old_word'];
 		$oldwordpos = (int)stripos($str,$oldword);
-		for ($i = $oldwordpos,$j = 0; $i < strlen($oldword); $i++,$j++)
+		for ($i = $oldwordpos,$j = 0; $j < strlen($oldword); $i++,$j++)
 			if ($oldword[$j] != $str[$i])
 				return 0;
 		return 1;
